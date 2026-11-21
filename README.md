@@ -35,8 +35,8 @@ These days the focus is agents. I use one daily and try to put something back â€
 
 <table width="100%">
   <tr>
-    <th align="center" width="16%">Category</th>
-    <th align="center" width="84%">Badges</th>
+    <th align="center" width="120">Category</th>
+    <th align="center" width="760">Badges</th>
   </tr>
   <tr>
     <td align="center"><strong>Languages</strong></td>
