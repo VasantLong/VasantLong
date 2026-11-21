@@ -33,6 +33,8 @@ These days the focus is agents. I use one daily and try to put something back â€
 
 <sub>brand colour = daily driver Â· grey = familiar / learning</sub>
 
+<!-- GitHub CSS forces `.markdown-body table{width:max-content}`, so the table is stretched with pixel column widths.
+     Once rows or badges grow past the column, drop width="120" / width="760" and let it shrink-wrap again. -->
 <table width="100%">
   <tr>
     <th align="center" width="120">Category</th>
